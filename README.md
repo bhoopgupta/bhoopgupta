@@ -8,6 +8,8 @@ Hi 👋, I'm Bhoop Narayan Gupta 👋
 ☁️ Deployment: Experienced in deploying on Netlify.
 💬 Communication: Effective team collaboration.
 
+Connect with me:
+https://narayangupta.netlify.app
 
 <!---
 bhoopgupta/bhoopgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
